@@ -2,6 +2,8 @@
 import React from 'react'
 import{ CTA, Brand, Navbar} from './components';
 import {Footer, Blog, Possibility, Features, WhatGPT3, Header} from './containers';
+import './App.css';
+import './index.css';
 
 const App = () => {
   return (
@@ -21,4 +23,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
