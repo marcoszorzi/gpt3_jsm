@@ -25,5 +25,3 @@ const Brand = () => {
 }
 
 export default Brand
-
-/** Stopped at 1:36:30 */
