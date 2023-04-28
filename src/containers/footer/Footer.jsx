@@ -8,3 +8,9 @@ const Footer = () => {
 }
 
 export default Footer
+
+/**
+ * Video stopped at 2:56:13
+ * 
+ * https://www.youtube.com/watch?v=F627pKNUCVQ&t=499s
+ */
